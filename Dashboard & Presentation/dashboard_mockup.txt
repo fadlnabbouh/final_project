@@ -1,0 +1,18 @@
+# Dashboard Mockup
+
+## Introduction
+- cardiovascular disease facts using the US_chronic disease dataset
+- prevalence of CVD relative to other diseases within the United States and globally using lat/long data and map graphs
+- demographic breakdown via age, race, location
+
+## CVD Data
+- Three groups of data for each patient: objective data that looks at age, gender, height, and weight; subjective data that looks at patient's activity level, and binary measures as to whether they smoke or drink alcohol; and health measures retrieved via examination such as heart rate, cholesterol levels, and glucose levels (the latter 2 being categorical data)
+- Dashboard will look at patient demographic first, visualizing number of datapoints by age, gender, and class (CVD present or not), likely via heatmaps
+- We'll also analyze the BMI, measured from height and weight, to determine if there is a difference in the class breakdown by BMI
+- Using the examined data, we'll display the class breakdown by cholesterol levels and glucose levels, likely using bargraphs 
+- finally, we'll examine subjective measures relative to class 
+
+## ML Model
+- we will display the accuracy for each model and the loss graph for our deep neural network
+- we'll also display confusion matrices on both models on our test sets
+- the top features (most predictive of CVD) will also be displayed to determine which measure is most likely to predict CVD
