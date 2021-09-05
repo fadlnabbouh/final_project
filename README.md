@@ -2,6 +2,8 @@
 
 ## Project Overview
 
+Cardiovascular Disease (CVD) is the leading cause of death globally, making up approximately 32% of deaths in 2019. In this project, we will analyze objective, examination, and subjective data of 70,000 patients. We will use classification machine learning models to predict the presence of CVD and determine which features are most determinative of the presence of CVD. 
+
 ## Week 1
 ## Roles
 
