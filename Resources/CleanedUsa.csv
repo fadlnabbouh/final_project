@@ -1,0 +1,370 @@
+id,YearStart,YearEnd,LocationDesc,DataSource,Topic,DataValueType,DataValue,LowConfidenceLimit,HighConfidenceLimit,StratificationCategory1,Stratification1,GeoLocation,LocationID,TopicID,DataValueTypeID,StratificationCategoryID1,StratificationID1
+0,2019,2019,Oregon,BRFSS,Cardiovascular Disease,Crude Prevalence,31.5,29.9,33.0,Overall,Overall, 4456744942             - 1201550313,41,CVD,CRDPREV,OVERALL,OVR
+1,2019,2019,Kansas,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",383477403              -9820078123,20,CVD,CRDPREV,RACE,MRC
+2,2019,2019,Massachusetts,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Gender,Female,21.30485044           -157.8577494,25,CVD,CRDPREV,GENDER,GENF
+3,2019,2019,Arizona,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3486597028             -1117638113 ,4,CVD,AGEADJPREV,RACE,MRC
+4,2019,2019,Hawaii,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"White, non-Hispanic",2130485044             -1578577494 ,15,CVD,CRDPREV,RACE,WHT
+8,2019,2019,Nebraska,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,41.64104099            -99.36572062,31,CVD,CRDPREV,RACE,HIS
+9,2019,2019,Florida,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",2893204038             -8192896054 ,12,CVD,CRDPREV,RACE,MRC
+12,2019,2019,Maryland,BRFSS,Cardiovascular Disease,Crude Prevalence,54.6,39.3,69.1,Gender,Female,3929058096            - 7660926011 ,24,CVD,CRDPREV,GENDER,GENF
+13,2019,2019,Minnesota,BRFSS,Cardiovascular Disease,Crude Prevalence,46.4,35.7,57.5,Gender,Male,4635564874            - 947942005 ,27,CVD,CRDPREV,GENDER,GENM
+14,2019,2019,Louisiana,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3131266064             -9244568007 ,22,CVD,CRDPREV,RACE,OTH
+15,2019,2019,District of Columbia,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3889037139             -7703196113 ,11,CVD,CRDPREV,RACE,OTH
+16,2019,2019,Idaho,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,30.0,16.6,48.0,Overall,Overall,4368263001              -11436373 ,16,CVD,AGEADJPREV,OVERALL,OVR
+18,2019,2019,California,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3763864012              -1209999995 ,6,CVD,AGEADJPREV,RACE,OTH
+21,2019,2019,Massachusetts,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4227687047              -7208269067 ,25,CVD,AGEADJPREV,RACE,MRC
+23,2019,2019,Montana,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,59.4,48.4,69.6,Overall,Overall,4706652897             -1094244206 ,30,CVD,AGEADJPREV,OVERALL,OVR
+24,2019,2019,Kentucky,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,51.1,36.6,65.5,Overall,Overall,3764597027              -8477497105 ,21,CVD,AGEADJPREV,OVERALL,OVR
+25,2019,2019,Florida,BRFSS,Cardiovascular Disease,Crude Prevalence,43.3,28.5,59.4,Gender,Male,2893204038              -8192896054 ,12,CVD,CRDPREV,GENDER,GENM
+27,2019,2019,Idaho,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Gender,Female,4368263001              -11436373 ,16,CVD,AGEADJPREV,GENDER,GENF
+28,2019,2019,Michigan,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,52.1,39.2,64.7,Gender,Female,4466131954              -8471439027 ,26,CVD,AGEADJPREV,GENDER,GENF
+29,2019,2019,Colorado,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Gender,Male,3884384076             -1061336109 ,8,CVD,AGEADJPREV,GENDER,GENM
+30,2019,2019,Arkansas,BRFSS,Cardiovascular Disease,Crude Prevalence,47.4,36.0,59.0,Overall,Overall,3474865012              -9227449074 ,5,CVD,CRDPREV,OVERALL,OVR
+31,2019,2019,Arizona,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",3486597028              -1117638113 ,4,CVD,AGEADJPREV,RACE,BLK
+32,2019,2019,Oklahoma,BRFSS,Cardiovascular Disease,Crude Prevalence,73.0,67.4,78.0,Race/Ethnicity,"White, non-Hispanic",3547203136               -9752107021 ,40,CVD,CRDPREV,RACE,WHT
+33,2019,2019,Colorado,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,69.2,61.0,76.3,Gender,Male,3884384076                -1061336109 ,8,CVD,AGEADJPREV,GENDER,GENM
+35,2019,2019,District of Columbia,BRFSS,Cardiovascular Disease,Crude Prevalence,61.0,44.6,75.3,Gender,Male,3889037139               -7703196113 ,11,CVD,CRDPREV,GENDER,GENM
+36,2019,2019,New Mexico,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",3452088095               -106240581 ,35,CVD,CRDPREV,RACE,BLK
+37,2019,2019,Maine,BRFSS,Cardiovascular Disease,Crude Prevalence,67.6,61.3,73.4,Gender,Male,4525422889               -6898503134 ,23,CVD,CRDPREV,GENDER,GENM
+38,2019,2019,North Dakota,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4747531978                -100118421 ,38,CVD,AGEADJPREV,RACE,HIS
+39,2019,2019,Wisconsin,BRFSS,Cardiovascular Disease,Crude Prevalence,64.0,56.1,71.1,Race/Ethnicity,"White, non-Hispanic",4439319117               -8981637074 ,55,CVD,CRDPREV,RACE,WHT
+40,2019,2019,Missouri,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,3863579078                -9256630005 ,29,CVD,CRDPREV,RACE,HIS
+42,2019,2019,Indiana,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3976691045                 -8614996019 ,18,CVD,AGEADJPREV,RACE,OTH
+43,2019,2019,Nevada,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,68.2,56.6,77.9,Overall,Overall,3949324039                 -1170718406 ,32,CVD,AGEADJPREV,OVERALL,OVR
+44,2019,2019,Pennsylvania,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,80.9,72.8,87.0,Gender,Male,4079373015                 -7786070029 ,42,CVD,AGEADJPREV,GENDER,GENM
+45,2019,2019,South Dakota,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4435313005                 -1003735306 ,46,CVD,AGEADJPREV,RACE,BLK
+46,2019,2019,Mississippi,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",327455101                    -8953803082 ,28,CVD,CRDPREV,RACE,OTH
+47,2019,2019,Maryland,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,70.0,60.0,78.3,Race/Ethnicity,"Black, non-Hispanic",3929058096                  -7660926011 ,24,CVD,AGEADJPREV,RACE,BLK
+49,2018,2018,Arizona,NVSS,Cardiovascular Disease,Number,16812.0,0.0,0.0,Overall,Overall,3486597028                  -1117638113 ,4,CVD,NMBR,OVERALL,OVR
+51,2018,2018,California,NVSS,Cardiovascular Disease,Number,41895.0,0.0,0.0,Gender,Female,3763864012                  -1209999995 ,6,CVD,NMBR,GENDER,GENF
+52,2018,2018,Washington,NVSS,Cardiovascular Disease,Number,8505.0,0.0,0.0,Gender,Male,4752227863                  - 1204700108 ,53,CVD,NMBR,GENDER,GENM
+53,2018,2018,Hawaii,NVSS,Cardiovascular Disease,Number,127.0,0.0,0.0,Race/Ethnicity,Hispanic,2130485044                   -1578577494 ,15,CVD,NMBR,RACE,HIS
+54,2018,2018,Louisiana,NVSS,Cardiovascular Disease,Number,6160.0,0.0,0.0,Gender,Male,3131266064                   -9244568007 ,22,CVD,NMBR,GENDER,GENM
+56,2018,2018,Maine,BRFSS,Cardiovascular Disease,Crude Prevalence,56.8,45.3,67.6,Race/Ethnicity,"White, non-Hispanic",4525422889                   -6898503134 ,23,CVD,CRDPREV,RACE,WHT
+57,2018,2018,Maine,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4435313005                   -1003735306 ,46,COPD,CRDPREV,RACE,MRC
+58,2018,2018,Louisiana,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,53.1,40.7,65.0,Gender,Female,3131266064                    -9244568007 ,22,CVD,AGEADJPREV,GENDER,GENF
+59,2018,2018,New Mexico,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",3452088095                    -106240581 ,35,CVD,AGEADJPREV,RACE,BLK
+60,2018,2018,District of Columbia,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"White, non-Hispanic",3889037139                    -7703196113 ,11,CVD,AGEADJPREV,RACE,WHT
+61,2018,2018,Minnesota,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4635564874                    -947942005 ,27,CVD,CRDPREV,RACE,BLK
+62,2018,2018,Delaware,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Gender,Female,3900883067                   -7557774117 ,10,CVD,CRDPREV,GENDER,GENF
+63,2018,2018,Nebraska,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4164104099                   -9936572062 ,31,CVD,CRDPREV,RACE,BLK
+64,2018,2018,Idaho,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4368263001                    -11436373 ,16,CVD,CRDPREV,RACE,OTH
+65,2018,2018,Arizona,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3486597028                     -1117638113 ,4,CVD,CRDPREV,RACE,OTH
+66,2018,2018,Mississippi,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",327455101                       -8953803082 ,28,CVD,AGEADJPREV,RACE,OTH
+67,2018,2018,Minnesota,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,37.8,26.6,50.4,Gender,Male,4635564874                      -947942005 ,27,CVD,AGEADJPREV,GENDER,GENM
+68,2018,2018,Alaska,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Overall,Overall,6484507996                        - 147722059 ,2,CVD,CRDPREV,OVERALL,OVR
+69,2018,2018,New Mexico,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,3452088095                       -106240581 ,35,CVD,CRDPREV,RACE,HIS
+70,2018,2018,Arkansas,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,43.1,25.6,62.5,Race/Ethnicity,"White, non-Hispanic",3474865012                       -9227449074 ,5,CVD,AGEADJPREV,RACE,WHT
+71,2018,2018,Alabama,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,60.0,44.4,73.9,Gender,Female,3284057112                       -8663186076 ,1,CVD,AGEADJPREV,GENDER,GENF
+72,2018,2018,South Dakota,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4435313005                       -1003735306 ,46,CVD,CRDPREV,RACE,OTH
+73,2018,2018,Montana,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4706652897                       -1094244206 ,30,CVD,CRDPREV,RACE,MRC
+74,2018,2018,South Carolina,BRFSS,Cardiovascular Disease,Crude Prevalence,59.4,52.7,65.9,Gender,Female,339988213                        - 8104537121 ,45,CVD,CRDPREV,GENDER,GENF
+77,2018,2018,Florida,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,57.6,49.1,65.7,Gender,Male,2893204038                      -8192896054 ,12,CVD,AGEADJPREV,GENDER,GENM
+79,2018,2018,Texas,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3182724041                      -9942677021 ,48,CVD,CRDPREV,RACE,MRC
+81,2018,2018,Massachusetts,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,51.2,43.5,58.9,Race/Ethnicity,"White, non-Hispanic",4227687047                       -7208269067 ,25,CVD,AGEADJPREV,RACE,WHT
+83,2018,2018,Guam,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,13444304                           -144793731 ,66,CVD,CRDPREV,RACE,HIS
+86,2018,2018,Virginia,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,62.0,56.1,67.5,Race/Ethnicity,"White, non-Hispanic",3754268067                      - 7845789046 ,51,CVD,AGEADJPREV,RACE,WHT
+87,2018,2018,Connecticut,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4156266102                       -7264984095 ,9,CVD,AGEADJPREV,RACE,OTH
+88,2018,2018,Mississippi,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,67.5,61.3,73.1,Overall,Overall,327455101                        - 8953803082 ,28,CVD,AGEADJPREV,OVERALL,OVR
+90,2018,2018,North Dakota,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4747531978                       - 100118421 ,38,CVD,CRDPREV,RACE,HIS
+92,2018,2018,Tennessee,BRFSS,Cardiovascular Disease,Crude Prevalence,53.6,46.2,60.9,Overall,Overall,3568094058                       -8577449091 ,47,CVD,CRDPREV,OVERALL,OVR
+94,2018,2018,Georgia,BRFSS,Cardiovascular Disease,Crude Prevalence,57.6,49.4,65.4,Gender,Female,3283968109                        -8362758035 ,13,CVD,CRDPREV,GENDER,GENF
+95,2018,2018,Louisiana,BRFSS,Cardiovascular Disease,Crude Prevalence,40.9,30.4,52.2,Gender,Female,3131266064                         -9244568007 ,22,CVD,CRDPREV,GENDER,GENF
+96,2018,2018,New Jersey,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4013057005                         - 7427369129 ,34,CVD,AGEADJPREV,RACE,HIS
+97,2018,2018,Michigan,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4466131954                         - 8471439027 ,26,CVD,AGEADJPREV,RACE,HIS
+100,2017,2017,Alabama,State Inpatient Data,Cardiovascular Disease,Number,0.0,0.0,0.0,Overall,Overall,3284057112                         - 8663186076 ,1,CVD,NMBR,OVERALL,OVR
+103,2017,2017,Pennsylvania,BRFSS,Cardiovascular Disease,Crude Prevalence,89.9,88.2,91.3,Gender,Male,4079373015                         -7786070029 ,42,CVD,CRDPREV,GENDER,GENM
+104,2017,2017,Georgia,BRFSS,Cardiovascular Disease,Crude Prevalence,29.5,28.1,31.0,Overall,Overall,3283968109                         -8362758035 ,13,CVD,CRDPREV,OVERALL,OVR
+105,2017,2017,Idaho,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,23.9,21.7,26.2,Gender,Female,4368263001                          -11436373 ,16,CVD,AGEADJPREV,GENDER,GENF
+106,2017,2017,New Mexico,BRFSS,Cardiovascular Disease,Crude Prevalence,29.8,28.2,31.4,Overall,Overall,3452088095                         -106240581 ,35,CVD,CRDPREV,OVERALL,OVR
+107,2017,2017,Wyoming,BRFSS,Cardiovascular Disease,Crude Prevalence,9.9,7.6,13.0,Overall,Overall,4323554134                         -1081098304 ,56,CVD,CRDPREV,OVERALL,OVR
+108,2017,2017,Arizona,NVSS,Cardiovascular Disease,Number,7047.0,0.0,0.0,Gender,Male,3486597028                         - 1117638113 ,4,CVD,NMBR,GENDER,GENM
+109,2017,2017,Iowa,NVSS,Cardiovascular Disease,Number,3728.0,0.0,0.0,Gender,Male,4246940091                          -9381649056 ,19,CVD,NMBR,GENDER,GENM
+111,2017,2017,Hawaii,NVSS,Cardiovascular Disease,Number,1133.0,0.0,0.0,Overall,Overall,2130485044                         - 1578577494 ,15,CVD,NMBR,OVERALL,OVR
+113,2017,2017,Minnesota,NVSS,Cardiovascular Disease,Number,7167.0,0.0,0.0,Overall,Overall,4635564874                         -947942005 ,27,CVD,NMBR,OVERALL,OVR
+114,2017,2017,Alabama,State Inpatient Data,Cardiovascular Disease,Number,0.0,0.0,0.0,Overall,Overall,3284057112                         - 8663186076 ,1,CVD,NMBR,OVERALL,OVR
+115,2017,2017,Arkansas,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3474865012                          -9227449074 ,5,CVD,CRDPREV,RACE,MRC
+116,2017,2017,Missouri,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,35.9,25.9,47.3,Race/Ethnicity,"White, non-Hispanic",3863579078                          -9256630005 ,29,CVD,AGEADJPREV,RACE,WHT
+117,2017,2017,Georgia,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,3283968109                          -8362758035 ,13,CVD,AGEADJPREV,RACE,HIS
+119,2017,2017,Maryland,BRFSS,Cardiovascular Disease,Crude Prevalence,57.5,40.9,72.6,Gender,Female,3929058096                         -7660926011 ,24,CVD,CRDPREV,GENDER,GENF
+121,2017,2017,Maine,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,33.0,19.9,49.5,Gender,Male,4525422889                          -6898503134 ,23,CVD,AGEADJPREV,GENDER,GENM
+122,2017,2017,Florida,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",2893204038                           -8192896054 ,12,CVD,AGEADJPREV,RACE,OTH
+123,2017,2017,Michigan,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,43.7,27.6,61.3,Gender,Female,4466131954                           -8471439027 ,26,CVD,AGEADJPREV,GENDER,GENF
+124,2017,2017,Kentucky,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,50.6,34.2,66.9,Overall,Overall,3764597027                          - 8477497105 ,21,CVD,AGEADJPREV,OVERALL,OVR
+125,2017,2017,Montana,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Gender,Female,4706652897                         -1094244206 ,30,CVD,CRDPREV,GENDER,GENF
+126,2017,2017,Louisiana,BRFSS,Cardiovascular Disease,Crude Prevalence,53.8,41.8,65.4,"Black, non-Hispanic","Black, non-Hispanic",3131266064                         -9244568007 ,22,CVD,CRDPREV,OVERALL,OVR
+127,2017,2017,Iowa,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",3131266064                        -9244568007 ,19,CVD,CRDPREV,RACE,BLK
+129,2017,2017,Nevada,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4246940091                        -9381649056 ,32,CVD,AGEADJPREV,RACE,MRC
+131,2017,2017,New Mexico,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Gender,Male,3949324039                        -1170718406 ,35,CVD,AGEADJPREV,GENDER,GENM
+132,2017,2017,Minnesota,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",3452088095                        -106240581 ,27,CVD,AGEADJPREV,RACE,BLK
+133,2017,2017,Kansas,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4635564874                        -947942005 ,20,CVD,CRDPREV,RACE,MRC
+134,2017,2017,Maryland,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",383477403                          -9820078123 ,24,CVD,AGEADJPREV,RACE,MRC
+135,2017,2017,Ohio,BRFSS,Cardiovascular Disease,Crude Prevalence,54.0,42.5,65.1,Gender,Male,3929058096                         -7660926011 ,39,CVD,CRDPREV,GENDER,GENM
+136,2017,2017,Colorado,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,23.3,14.1,35.9,Gender,Male,4006021014                         -8240426006 ,8,CVD,AGEADJPREV,GENDER,GENM
+137,2017,2017,Arizona,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3884384076                         -1061336109 ,4,CVD,CRDPREV,RACE,MRC
+138,2017,2017,New Jersey,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3486597028                        -1117638113 ,34,CVD,AGEADJPREV,RACE,MRC
+139,2017,2017,Kentucky,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4013057005                       - 7427369129 ,21,CVD,CRDPREV,RACE,HIS
+140,2017,2017,Massachusetts,BRFSS,Cardiovascular Disease,Crude Prevalence,61.0,50.7,70.4,Race/Ethnicity,"White, non-Hispanic",3764597027                        - 8477497105 ,25,CVD,CRDPREV,RACE,WHT
+141,2017,2017,New Mexico,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4227687047                        -7208269067 ,35,CVD,AGEADJPREV,RACE,MRC
+142,2017,2017,Indiana,BRFSS,Cardiovascular Disease,Crude Prevalence,46.6,30.5,63.5,Race/Ethnicity,"Black, non-Hispanic",3452088095                       -106240581 ,18,CVD,CRDPREV,RACE,BLK
+143,2017,2017,Guam,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"White, non-Hispanic",3976691045                        -8614996019 ,66,CVD,CRDPREV,RACE,WHT
+144,2017,2017,Utah,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,13444304                             -144793731 ,49,CVD,CRDPREV,RACE,HIS
+145,2017,2017,Montana,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,3936070017                     - 1115871306 ,30,CVD,AGEADJPREV,RACE,HIS
+146,2017,2017,Maine,BRFSS,Cardiovascular Disease,Crude Prevalence,63.9,55.7,71.4,Gender,Male,4706652897                     -1094244206 ,23,CVD,CRDPREV,GENDER,GENM
+148,2017,2017,New Hampshire,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,72.5,63.8,79.8,Gender,Male,4525422889                     -6898503134 ,33,CVD,AGEADJPREV,GENDER,GENM
+149,2017,2017,Tennessee,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,53.0,45.8,60.0,Overall,Overall,4365595011                    -7150036092 ,47,CVD,AGEADJPREV,OVERALL,OVR
+154,2017,2017,Texas,BRFSS,Cardiovascular Disease,Crude Prevalence,56.6,42.5,69.7,Gender,Female,3568094058                    -8577449091 ,48,CVD,CRDPREV,GENDER,GENF
+157,2016,2016,New Jersey,State Inpatient Data,Cardiovascular Disease,Number,10892.0,0.0,0.0,Gender,Male,3182724041                     -9942677021 ,34,CVD,NMBR,GENDER,GENM
+158,2016,2016,Utah,State Inpatient Data,Cardiovascular Disease,Number,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4013057005                    -7427369129 ,49,CVD,NMBR,RACE,HIS
+161,2016,2016,Guam,State Inpatient Data,Cardiovascular Disease,Number,0.0,0.0,0.0,Gender,Male,3936070017                    -1115871306 ,66,CVD,NMBR,GENDER,GENM
+162,2016,2016,Maine,State Inpatient Data,Cardiovascular Disease,Number,1618.0,0.0,0.0,Gender,Female,13444304                        -144793731 ,23,CVD,NMBR,GENDER,GENF
+163,2016,2016,Alabama,NVSS,Cardiovascular Disease,Number,42.0,0.0,0.0,Race/Ethnicity,Hispanic,4525422889                     -6898503134 ,1,CVD,NMBR,RACE,HIS
+164,2016,2016,New Jersey,State Inpatient Data,Cardiovascular Disease,Number,10892.0,0.0,0.0,Gender,Male,3284057112                     -8663186076 ,34,CVD,NMBR,GENDER,GENM
+166,2016,2016,Utah,State Inpatient Data,Cardiovascular Disease,Number,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4013057005                   - 7427369129 ,49,CVD,NMBR,RACE,HIS
+167,2016,2016,Guam,State Inpatient Data,Cardiovascular Disease,Number,0.0,0.0,0.0,Gender,Male,3936070017                    -1115871306 ,66,CVD,NMBR,GENDER,GENM
+168,2016,2016,Michigan,BRFSS,Cardiovascular Disease,Crude Prevalence,43.2,35.6,51.1,Gender,Male,13444304                         -144793731 ,26,CVD,CRDPREV,GENDER,GENM
+169,2016,2016,New Hampshire,BRFSS,Cardiovascular Disease,Crude Prevalence,59.1,48.5,68.8,Overall,Overall,4466131954                    - 8471439027 ,33,CVD,CRDPREV,OVERALL,OVR
+170,2016,2016,Colorado,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4365595011                   -7150036092 ,8,CVD,CRDPREV,RACE,BLK
+171,2016,2016,Arkansas,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3884384076                   -1061336109 ,5,CVD,AGEADJPREV,RACE,MRC
+172,2016,2016,District of Columbia,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3474865012                   - 9227449074 ,11,CVD,AGEADJPREV,RACE,OTH
+173,2016,2016,Maine,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,3889037139                    -7703196113 ,23,CVD,CRDPREV,RACE,HIS
+174,2016,2016,Minnesota,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4525422889                    -6898503134 ,27,CVD,CRDPREV,RACE,OTH
+175,2016,2016,Nebraska,BRFSS,Cardiovascular Disease,Crude Prevalence,35.0,26.5,44.6,Gender,Male,4635564874                    -947942005 ,31,CVD,CRDPREV,GENDER,GENM
+176,2016,2016,Minnesota,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,46.6,35.2,58.4,Gender,Male,4164104099                   -9936572062 ,27,CVD,AGEADJPREV,GENDER,GENM
+177,2016,2016,Kentucky,BRFSS,Cardiovascular Disease,Crude Prevalence,51.4,44.0,58.8,Overall,Overall,4635564874                  -947942005 ,21,CVD,CRDPREV,OVERALL,OVR
+178,2016,2016,Missouri,BRFSS,Cardiovascular Disease,Crude Prevalence,46.9,37.0,57.0,Race/Ethnicity,"White, non-Hispanic",3764597027                  -8477497105 ,29,CVD,CRDPREV,RACE,WHT
+180,2016,2016,Idaho,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3863579078                  -9256630005 ,16,CVD,CRDPREV,RACE,OTH
+182,2016,2016,Georgia,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4368263001                  -11436373 ,13,CVD,CRDPREV,RACE,HIS
+183,2016,2016,Idaho,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",3283968109                 -8362758035 ,16,CVD,AGEADJPREV,RACE,BLK
+184,2016,2016,Kansas,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4368263001                  -11436373 ,20,CVD,CRDPREV,RACE,HIS
+185,2016,2016,Michigan,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",383477403                    -9820078123 ,26,CVD,CRDPREV,RACE,OTH
+186,2016,2016,New Jersey,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4466131954                  -8471439027 ,34,CVD,CRDPREV,RACE,HIS
+189,2016,2016,Montana,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4013057005                  -7427369129 ,30,CVD,AGEADJPREV,RACE,MRC
+190,2016,2016,New Mexico,BRFSS,Cardiovascular Disease,Crude Prevalence,56.4,38.0,73.2,Race/Ethnicity,Hispanic,4706652897                  -1094244206 ,35,CVD,CRDPREV,RACE,HIS
+191,2016,2016,Virgin Islands,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Overall,Overall,3452088095                  -106240581 ,78,CVD,CRDPREV,OVERALL,OVR
+192,2016,2016,South Carolina,BRFSS,Cardiovascular Disease,Crude Prevalence,66.1,62.1,69.9,Overall,Overall,18335765                       -64896335 ,45,CVD,CRDPREV,OVERALL,OVR
+196,2016,2016,North Dakota,BRFSS,Cardiovascular Disease,Crude Prevalence,64.0,58.4,69.2,Race/Ethnicity,"White, non-Hispanic",339988213                     -8104537121 ,38,CVD,CRDPREV,RACE,WHT
+197,2016,2016,Puerto Rico,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"White, non-Hispanic",4747531978                   -100118421 ,72,CVD,AGEADJPREV,RACE,WHT
+199,2016,2016,Wisconsin,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",18220833                        -66590149 ,55,CVD,AGEADJPREV,RACE,MRC
+200,2016,2016,Oregon,BRFSS,Cardiovascular Disease,Crude Prevalence,56.0,47.5,64.2,Gender,Male,4439319117                    -8981637074 ,41,CVD,CRDPREV,GENDER,GENM
+201,2016,2016,South Dakota,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,66.1,53.8,76.6,Gender,Male,4456744942                    -1201550313 ,46,CVD,AGEADJPREV,GENDER,GENM
+202,2016,2016,Guam,BRFSS,Cardiovascular Disease,Crude Prevalence,36.4,22.4,53.2,Overall,Female,4435313005                    -1003735306 ,66,CVD,CRDPREV,OVERALL,OVR
+203,2016,2016,Mississippi,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,70.5,64.5,75.9,Overall,Overall,13444304                         -144793731 ,28,CVD,AGEADJPREV,OVERALL,OVR
+204,2016,2016,Guam,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",327455101                       -8953803082 ,66,CVD,AGEADJPREV,RACE,BLK
+206,2015,2015,Montana,BRFSS,Cardiovascular Disease,Crude Prevalence,82.4,80.0,84.7,Gender,Female,13444304                         -144793731 ,30,CVD,CRDPREV,GENDER,GENF
+207,2015,2015,Virginia,BRFSS,Cardiovascular Disease,Crude Prevalence,83.6,82.3,84.8,Overall,Overall,4706652897                    -1094244206 ,51,CVD,CRDPREV,OVERALL,OVR
+208,2015,2015,Colorado,BRFSS,Cardiovascular Disease,Crude Prevalence,29.5,27.9,31.1,Gender,Female,3754268067                     -7845789046 ,8,CVD,CRDPREV,GENDER,GENF
+209,2015,2015,Vermont,BRFSS,Cardiovascular Disease,Crude Prevalence,9.6,7.6,12.1,Overall,Overall,3884384076                     -1061336109 ,50,CVD,CRDPREV,OVERALL,OVR
+210,2015,2015,Florida,NVSS,Cardiovascular Disease,Number,34531.0,0.0,0.0,Race/Ethnicity,"White, non-Hispanic",4362538124                     -7251764079 ,12,CVD,NMBR,RACE,WHT
+211,2015,2015,Hawaii,NVSS,Cardiovascular Disease,Number,1461.0,0.0,0.0,Gender,Male,2893204038                      -8192896054 ,15,CVD,NMBR,GENDER,GENM
+213,2015,2015,Louisiana,NVSS,Cardiovascular Disease,Number,10665.0,0.0,0.0,Overall,Overall,2130485044                      -1578577494 ,22,CVD,NMBR,OVERALL,OVR
+215,2015,2015,Alaska,NVSS,Cardiovascular Disease,Number,194.0,0.0,0.0,Gender,Female,3131266064                      -9244568007 ,2,CVD,NMBR,GENDER,GENF
+216,2015,2015,Missouri,NVSS,Cardiovascular Disease,Number,7477.0,0.0,0.0,Overall,Overall,6484507996                      -147722059 ,29,CVD,NMBR,OVERALL,OVR
+217,2015,2015,New Jersey,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3863579078                       -9256630005 ,34,CVD,CRDPREV,RACE,OTH
+218,2015,2015,Maine,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,51.6,38.4,64.6,Gender,Male,4013057005                       -7427369129 ,23,CVD,AGEADJPREV,GENDER,GENM
+219,2015,2015,Alabama,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4525422889                        -6898503134 ,1,CVD,AGEADJPREV,RACE,MRC
+220,2015,2015,Hawaii,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",3284057112                         - 8663186076 ,15,CVD,AGEADJPREV,RACE,BLK
+223,2015,2015,New Jersey,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",2130485044                         -1578577494 ,34,CVD,AGEADJPREV,RACE,BLK
+224,2015,2015,Nevada,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4013057005                         -7427369129 ,32,CVD,AGEADJPREV,RACE,OTH
+225,2015,2015,New Hampshire,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",3949324039                         -1170718406 ,33,CVD,AGEADJPREV,RACE,BLK
+227,2015,2015,Mississippi,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4365595011                         -7150036092 ,28,CVD,CRDPREV,RACE,MRC
+229,2015,2015,North Carolina,BRFSS,Cardiovascular Disease,Crude Prevalence,56.6,48.4,64.4,Overall,Overall,327455101                          - 8953803082 ,37,CVD,CRDPREV,OVERALL,OVR
+230,2015,2015,Arkansas,BRFSS,Cardiovascular Disease,Crude Prevalence,36.6,22.8,52.9,Gender,Male,3546622098                         -7915925046 ,5,CVD,CRDPREV,GENDER,GENM
+231,2015,2015,New York,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",3474865012                         -9227449074 ,36,CVD,AGEADJPREV,RACE,BLK
+234,2015,2015,Minnesota,BRFSS,Cardiovascular Disease,Crude Prevalence,40.6,34.2,47.2,Race/Ethnicity,"White, non-Hispanic",4282700103                         -7554397043 ,27,CVD,CRDPREV,RACE,WHT
+235,2015,2015,Hawaii,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4635564874                          -947942005 ,15,CVD,CRDPREV,RACE,BLK
+237,2015,2015,Connecticut,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,46.6,30.9,63.0,Race/Ethnicity,"White, non-Hispanic",2130485044                          -1578577494 ,9,CVD,AGEADJPREV,RACE,WHT
+238,2015,2015,New Mexico,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,29.5,22.1,38.1,Overall,Overall,4156266102                         -7264984095 ,35,CVD,AGEADJPREV,OVERALL,OVR
+239,2015,2015,Mississippi,BRFSS,Cardiovascular Disease,Crude Prevalence,54.4,43.5,64.9,Race/Ethnicity,"White, non-Hispanic",3452088095                         -106240581 ,28,CVD,CRDPREV,RACE,WHT
+240,2015,2015,Iowa,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,327455101                          -8953803082 ,19,CVD,CRDPREV,RACE,HIS
+241,2015,2015,Illinois,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4246940091                       -9381649056 ,17,CVD,AGEADJPREV,RACE,OTH
+242,2015,2015,Maryland,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4048501028                      - 8899771018 ,24,CVD,AGEADJPREV,RACE,OTH
+244,2015,2015,Florida,BRFSS,Cardiovascular Disease,Crude Prevalence,43.9,33.3,55.1,Gender,Male,3929058096                      -7660926011 ,12,CVD,CRDPREV,GENDER,GENM
+245,2015,2015,Minnesota,BRFSS,Cardiovascular Disease,Crude Prevalence,40.7,33.1,48.7,Gender,Male,2893204038                      -8192896054 ,27,CVD,CRDPREV,GENDER,GENM
+248,2015,2015,Louisiana,BRFSS,Cardiovascular Disease,Crude Prevalence,41.7,25.9,59.5,Race/Ethnicity,"Black, non-Hispanic",4635564874                       -947942005 ,22,CVD,CRDPREV,RACE,BLK
+250,2015,2015,Texas,BRFSS,Cardiovascular Disease,Crude Prevalence,65.3,59.3,70.8,Overall,Overall,3131266064                       -9244568007 ,48,CVD,CRDPREV,OVERALL,OVR
+251,2015,2015,Oregon,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3182724041                      -9942677021 ,41,CVD,AGEADJPREV,RACE,MRC
+252,2015,2015,Nebraska,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4456744942                       -1201550313 ,31,CVD,AGEADJPREV,RACE,MRC
+253,2015,2015,District of Columbia,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4164104099                       -9936572062 ,11,CVD,AGEADJPREV,RACE,MRC
+254,2015,2015,North Dakota,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3889037139                       -7703196113 ,38,CVD,CRDPREV,RACE,MRC
+255,2015,2015,Utah,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4747531978                        -100118421 ,49,CVD,CRDPREV,RACE,MRC
+257,2015,2015,Virginia,BRFSS,Cardiovascular Disease,Crude Prevalence,65.0,59.1,70.5,Overall,Overall,3936070017                        -1115871306 ,51,CVD,CRDPREV,OVERALL,OVR
+258,2015,2015,New Mexico,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3754268067                         -7845789046 ,35,CVD,CRDPREV,RACE,MRC
+259,2015,2015,Tennessee,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,60.5,54.5,66.3,Overall,Overall,3452088095                         -106240581 ,47,CVD,AGEADJPREV,OVERALL,OVR
+260,2015,2015,Oklahoma,BRFSS,Cardiovascular Disease,Crude Prevalence,72.8,66.0,78.7,Gender,Male,3568094058                         -8577449091 ,40,CVD,CRDPREV,GENDER,GENM
+261,2015,2015,Illinois,BRFSS,Cardiovascular Disease,Crude Prevalence,62.2,55.9,68.2,Overall,Overall,3547203136                         -9752107021 ,17,CVD,CRDPREV,OVERALL,OVR
+264,2015,2015,Indiana,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4048501028                         -8899771018 ,18,CVD,CRDPREV,RACE,BLK
+265,2015,2015,Nebraska,BRFSS,Cardiovascular Disease,Crude Prevalence,68.7,64.6,72.5,Overall,Overall,3976691045                         -8614996019 ,31,CVD,CRDPREV,OVERALL,OVR
+267,2015,2015,New Mexico,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,64.9,57.0,72.1,Race/Ethnicity,"White, non-Hispanic",4164104099                         -9936572062 ,35,CVD,AGEADJPREV,RACE,WHT
+271,2015,2015,Vermont,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",3452088095                         -106240581 ,50,CVD,CRDPREV,RACE,BLK
+272,2015,2015,New York,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,55.8,47.5,63.8,Gender,Female,4362538124                        -7251764079 ,36,CVD,AGEADJPREV,GENDER,GENF
+275,2014,2014,Louisiana,NVSS,Cardiovascular Disease,Number,7138.0,0.0,0.0,Gender,Male,4282700103                         -7554397043 ,22,CVD,NMBR,GENDER,GENM
+276,2014,2014,Michigan,NVSS,Cardiovascular Disease,Number,5424.0,0.0,0.0,Gender,Male,3131266064                         -9244568007 ,26,CVD,NMBR,GENDER,GENM
+277,2014,2014,South Dakota,NVSS,Cardiovascular Disease,Number,494.0,0.0,0.0,Gender,Male,4466131954                         -8471439027 ,46,CVD,NMBR,GENDER,GENM
+278,2014,2014,Iowa,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4435313005                         -1003735306 ,19,CVD,CRDPREV,RACE,BLK
+279,2014,2014,Connecticut,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,25.5,18.3,34.4,Overall,Overall,4246940091                        -9381649056 ,9,CVD,AGEADJPREV,OVERALL,OVR
+281,2014,2014,Illinois,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,42.5,32.8,52.9,Overall,Overall,4156266102                        -7264984095 ,17,CVD,AGEADJPREV,OVERALL,OVR
+283,2014,2014,New Jersey,BRFSS,Cardiovascular Disease,Crude Prevalence,42.2,25.7,60.7,Race/Ethnicity,"Black, non-Hispanic",4048501028                        -8899771018 ,23,CVD,CRDPREV,RACE,BLK
+285,2014,2014,North Carolina,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,45.9,26.3,66.9,Race/Ethnicity,"White, non-Hispanic",4525422889                       -6898503134 ,37,CVD,AGEADJPREV,RACE,WHT
+286,2014,2014,Nebraska,BRFSS,Cardiovascular Disease,Crude Prevalence,53.0,45.3,60.6,Gender,Male,3546622098                       -7915925046 ,31,CVD,CRDPREV,GENDER,GENM
+287,2014,2014,Massachusetts,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,34.8,23.3,48.3,Race/Ethnicity,"White, non-Hispanic",4164104099                      -9936572062 ,25,CVD,AGEADJPREV,RACE,WHT
+288,2014,2014,Indiana,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4227687047                     -7208269067 ,18,CVD,CRDPREV,RACE,OTH
+289,2014,2014,District of Columbia,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Gender,Male,3976691045                    -8614996019 ,11,CVD,AGEADJPREV,GENDER,GENM
+290,2014,2014,Nevada,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3889037139                    -7703196113 ,32,CVD,CRDPREV,RACE,OTH
+291,2014,2014,Alaska,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",3949324039                    -1170718406 ,2,CVD,AGEADJPREV,RACE,BLK
+292,2014,2014,California,BRFSS,Cardiovascular Disease,Crude Prevalence,44.9,31.6,59.0,Gender,Female,6484507996                    -147722059 ,6,CVD,CRDPREV,GENDER,GENF
+293,2014,2014,Florida,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3763864012                    -1209999995 ,12,CVD,AGEADJPREV,RACE,MRC
+294,2014,2014,Colorado,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",2893204038                    -8192896054 ,8,CVD,AGEADJPREV,RACE,OTH
+295,2014,2014,Utah,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,3884384076                    -1061336109 ,49,CVD,AGEADJPREV,RACE,HIS
+296,2014,2014,Kentucky,BRFSS,Cardiovascular Disease,Crude Prevalence,72.2,67.0,76.8,Race/Ethnicity,"White, non-Hispanic",3936070017                    -1115871306 ,21,CVD,CRDPREV,RACE,WHT
+297,2014,2014,South Carolina,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,64.5,60.5,68.4,Overall,Overall,3764597027                    -8477497105 ,45,CVD,AGEADJPREV,OVERALL,OVR
+299,2014,2014,Idaho,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,60.3,50.9,69.0,Gender,Female,339988213                      -8104537121 ,16,CVD,AGEADJPREV,GENDER,GENF
+303,2014,2014,North Carolina,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,70.1,62.8,76.4,Gender,Male,4368263001                   -11436373 ,37,CVD,AGEADJPREV,GENDER,GENM
+305,2014,2014,South Dakota,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3546622098                   -7915925046 ,46,CVD,AGEADJPREV,RACE,MRC
+306,2014,2014,Iowa,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4435313005                   - 1003735306 ,19,CVD,CRDPREV,RACE,HIS
+308,2014,2014,Rhode Island,BRFSS,Cardiovascular Disease,Crude Prevalence,62.9,56.7,68.7,Race/Ethnicity,"White, non-Hispanic",4246940091                   -9381649056 ,44,CVD,CRDPREV,RACE,WHT
+309,2014,2014,North Dakota,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4170828019                  -7152247031 ,38,CVD,AGEADJPREV,RACE,OTH
+310,2014,2014,Rhode Island,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4747531978                 -100118421 ,44,CVD,AGEADJPREV,RACE,BLK
+311,2014,2014,Illinois,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,61.7,54.9,68.0,Race/Ethnicity,"White, non-Hispanic",4170828019                  -7152247031 ,17,CVD,AGEADJPREV,RACE,WHT
+312,2013,2013,Florida,BRFSS,Cardiovascular Disease,Crude Prevalence,42.2,40.3,44.1,Gender,Male,4048501028                  -8899771018 ,12,CVD,CRDPREV,GENDER,GENM
+314,2013,2013,Guam,BRFSS,Cardiovascular Disease,Crude Prevalence,29.9,26.4,33.8,Gender,Female,2893204038                  -8192896054 ,66,CVD,CRDPREV,GENDER,GENF
+316,2013,2013,Kentucky,NVSS,Cardiovascular Disease,Number,6236.0,0.0,0.0,Gender,Female,13444304                      -144793731 ,21,CVD,NMBR,GENDER,GENF
+318,2013,2013,Louisiana,NVSS,Cardiovascular Disease,Number,6908.0,0.0,0.0,Gender,Male,3764597027                 -8477497105 ,22,CVD,NMBR,GENDER,GENM
+320,2013,2013,Maine,NVSS,Cardiovascular Disease,Number,3676.0,0.0,0.0,Overall,Overall,3131266064                 -9244568007 ,23,CVD,NMBR,OVERALL,OVR
+321,2013,2013,Washington,NVSS,Cardiovascular Disease,Number,14408.0,0.0,0.0,Overall,Overall,4525422889                 -6898503134 ,53,CVD,NMBR,OVERALL,OVR
+322,2013,2013,Hawaii,NVSS,Cardiovascular Disease,Number,1430.0,0.0,0.0,Gender,Male,4752227863                 -1204700108 ,15,CVD,NMBR,GENDER,GENM
+324,2013,2013,Minnesota,NVSS,Cardiovascular Disease,Number,5731.0,0.0,0.0,Overall,Overall,2130485044                 -1578577494 ,27,CVD,NMBR,OVERALL,OVR
+325,2013,2013,Montana,NVSS,Cardiovascular Disease,Number,542.0,0.0,0.0,Gender,Male,4635564874                 -947942005 ,30,CVD,NMBR,GENDER,GENM
+327,2013,2013,Ohio,NVSS,Cardiovascular Disease,Number,6070.0,0.0,0.0,Gender,Male,4706652897                 -1094244206 ,39,CVD,NMBR,GENDER,GENM
+328,2013,2013,Oregon,NVSS,Cardiovascular Disease,Number,2446.0,0.0,0.0,Gender,Male,4006021014                - 8240426006 ,41,CVD,NMBR,GENDER,GENM
+329,2013,2013,Pennsylvania,NVSS,Cardiovascular Disease,Number,7015.0,0.0,0.0,Gender,Male,4456744942                  -1201550313 ,42,CVD,NMBR,GENDER,GENM
+330,2013,2013,Connecticut,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4079373015                  -7786070029 ,9,CVD,AGEADJPREV,RACE,OTH
+332,2013,2013,New Hampshire,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4156266102                  -7264984095 ,33,CVD,AGEADJPREV,RACE,BLK
+334,2013,2013,Minnesota,BRFSS,Cardiovascular Disease,Crude Prevalence,51.4,34.8,67.8,Gender,Female,4365595011                 -7150036092 ,27,CVD,CRDPREV,GENDER,GENF
+335,2013,2013,Nevada,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4635564874                  -947942005 ,32,CVD,AGEADJPREV,RACE,OTH
+336,2013,2013,Maryland,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3949324039                  -1170718406 ,24,CVD,AGEADJPREV,RACE,OTH
+337,2013,2013,New Mexico,BRFSS,Cardiovascular Disease,Crude Prevalence,43.7,30.9,57.3,Race/Ethnicity,Hispanic,3929058096                  -7660926011 ,35,CVD,CRDPREV,RACE,HIS
+338,2013,2013,Florida,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,32.3,20.8,46.4,Gender,Female,3452088095                  -106240581 ,12,CVD,AGEADJPREV,GENDER,GENF
+340,2013,2013,Delaware,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",2893204038                  -8192896054 ,10,CVD,AGEADJPREV,RACE,MRC
+341,2013,2013,New Mexico,BRFSS,Cardiovascular Disease,Crude Prevalence,49.3,37.5,61.3,Race/Ethnicity,"White, non-Hispanic",3900883067                  -7557774117 ,35,CVD,CRDPREV,RACE,WHT
+342,2013,2013,Delaware,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3452088095                  -106240581 ,10,CVD,AGEADJPREV,RACE,OTH
+343,2013,2013,District of Columbia,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"White, non-Hispanic",3900883067                  -7557774117 ,11,CVD,CRDPREV,RACE,WHT
+344,2013,2013,Missouri,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,3889037139                 -7703196113 ,29,CVD,AGEADJPREV,RACE,HIS
+345,2013,2013,Illinois,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3863579078                 -9256630005 ,17,CVD,AGEADJPREV,RACE,MRC
+346,2013,2013,Colorado,BRFSS,Cardiovascular Disease,Crude Prevalence,48.2,39.6,56.8,Overall,Overall,4048501028                 -8899771018 ,8,CVD,CRDPREV,OVERALL,OVR
+347,2013,2013,Louisiana,BRFSS,Cardiovascular Disease,Crude Prevalence,45.8,35.1,56.8,Overall,Overall,3884384076                -1061336109 ,22,CVD,CRDPREV,OVERALL,OVR
+350,2013,2013,Idaho,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,25.3,16.1,37.3,Overall,Overall,3131266064                -9244568007 ,16,CVD,AGEADJPREV,OVERALL,OVR
+351,2013,2013,Arkansas,BRFSS,Cardiovascular Disease,Crude Prevalence,50.9,37.4,64.3,Gender,Male,4368263001                -11436373 ,5,CVD,CRDPREV,GENDER,GENM
+352,2013,2013,New Hampshire,BRFSS,Cardiovascular Disease,Crude Prevalence,56.7,45.6,67.2,Race/Ethnicity,"White, non-Hispanic",3474865012                -9227449074 ,33,CVD,CRDPREV,RACE,WHT
+354,2013,2013,New Jersey,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4365595011                -7150036092 ,34,CVD,AGEADJPREV,RACE,HIS
+355,2013,2013,Massachusetts,BRFSS,Cardiovascular Disease,Crude Prevalence,54.3,45.4,62.9,Overall,Overall,4013057005                -7427369129 ,25,CVD,CRDPREV,OVERALL,OVR
+356,2013,2013,Hawaii,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4227687047                -7208269067 ,15,CVD,AGEADJPREV,RACE,BLK
+357,2013,2013,Arizona,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",2130485044                -1578577494 ,4,CVD,CRDPREV,RACE,MRC
+358,2013,2013,Kansas,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3486597028                -1117638113 ,20,CVD,CRDPREV,RACE,MRC
+359,2013,2013,Maine,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,54.4,40.3,67.8,Gender,Male,383477403                  -9820078123 ,23,CVD,AGEADJPREV,GENDER,GENM
+360,2013,2013,Kansas,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4525422889                -6898503134 ,20,CVD,AGEADJPREV,RACE,MRC
+361,2013,2013,Kansas,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",383477403                   -9820078123 ,20,CVD,CRDPREV,RACE,MRC
+362,2013,2013,Louisiana,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,383477403                   -9820078123 ,22,CVD,AGEADJPREV,RACE,HIS
+363,2013,2013,Connecticut,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",3131266064                -9244568007 ,9,CVD,AGEADJPREV,RACE,BLK
+366,2013,2013,Massachusetts,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,70.9,63.7,77.3,Gender,Male,4156266102                -7264984095 ,25,CVD,AGEADJPREV,GENDER,GENM
+369,2013,2013,North Dakota,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4227687047                -7208269067 ,38,CVD,AGEADJPREV,RACE,OTH
+371,2013,2013,Wyoming,BRFSS,Cardiovascular Disease,Crude Prevalence,55.8,50.3,61.1,Overall,Overall,4747531978               -100118421 ,56,CVD,CRDPREV,OVERALL,OVR
+372,2013,2013,Hawaii,BRFSS,Cardiovascular Disease,Crude Prevalence,75.1,68.0,81.1,Overall,Overall,4323554134               -1081098304 ,15,CVD,CRDPREV,OVERALL,OVR
+373,2013,2013,North Dakota,BRFSS,Cardiovascular Disease,Crude Prevalence,62.8,57.3,67.9,Overall,Overall,2130485044              -1578577494 ,38,CVD,CRDPREV,OVERALL,OVR
+374,2013,2013,Ohio,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,65.9,58.3,72.8,Gender,Male,4747531978              -100118421 ,39,CVD,AGEADJPREV,GENDER,GENM
+375,2013,2013,New Mexico,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4006021014              -8240426006 ,35,CVD,CRDPREV,RACE,MRC
+376,2013,2013,Florida,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,57.2,53.3,61.1,Overall,Overall,3452088095              -106240581 ,12,CVD,AGEADJPREV,OVERALL,OVR
+377,2013,2013,Pennsylvania,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",2893204038              -8192896054 ,42,CVD,AGEADJPREV,RACE,OTH
+378,2013,2013,Montana,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4079373015              -7786070029 ,30,CVD,CRDPREV,RACE,BLK
+379,2013,2013,Utah,BRFSS,Cardiovascular Disease,Crude Prevalence,63.0,57.8,67.9,Overall,Overall,4706652897             -1094244206 ,49,CVD,CRDPREV,OVERALL,OVR
+380,2012,2012,Hawaii,NVSS,Cardiovascular Disease,Number,1763.0,0.0,0.0,Gender,Male,3936070017             -1115871306 ,15,CVD,NMBR,GENDER,GENM
+382,2012,2012,Indiana,NVSS,Cardiovascular Disease,Number,18030.0,0.0,0.0,Overall,Overall,2130485044             -1578577494 ,18,CVD,NMBR,OVERALL,OVR
+383,2012,2012,Iowa,NVSS,Cardiovascular Disease,Number,4772.0,0.0,0.0,Gender,Female,3976691045              -8614996019 ,19,CVD,NMBR,GENDER,GENF
+384,2012,2012,Maine,NVSS,Cardiovascular Disease,Number,1793.0,0.0,0.0,Gender,Female,4246940091              -9381649056 ,23,CVD,NMBR,GENDER,GENF
+385,2012,2012,Washington,NVSS,Cardiovascular Disease,Number,7214.0,0.0,0.0,Gender,Male,4525422889              -6898503134 ,53,CVD,NMBR,GENDER,GENM
+386,2012,2012,Virginia,NVSS,Cardiovascular Disease,Number,6390.0,0.0,0.0,Overall,Overall,4752227863              -1204700108 ,51,CVD,NMBR,OVERALL,OVR
+388,2012,2012,West Virginia,NVSS,Cardiovascular Disease,Number,1224.0,0.0,0.0,Gender,Male,3754268067              -7845789046 ,54,CVD,NMBR,GENDER,GENM
+389,2012,2012,Maine,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",386655102                 -8071264013 ,23,CVD,CRDPREV,RACE,BLK
+390,2012,2012,North Dakota,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4525422889               -6898503134 ,38,CVD,CRDPREV,RACE,BLK
+391,2012,2012,Nevada,BRFSS,Cardiovascular Disease,Crude Prevalence,26.8,16.5,40.4,Race/Ethnicity,"White, non-Hispanic",4747531978               -100118421 ,32,CVD,CRDPREV,RACE,WHT
+396,2012,2012,Alaska,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3949324039               -1170718406 ,2,CVD,CRDPREV,RACE,MRC
+398,2012,2012,Mississippi,BRFSS,Cardiovascular Disease,Crude Prevalence,39.2,29.9,49.3,Gender,Male,6484507996               -147722059 ,28,CVD,CRDPREV,GENDER,GENM
+399,2012,2012,Alabama,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,41.0,28.1,55.3,Overall,Overall,327455101                 -8953803082 ,1,CVD,AGEADJPREV,OVERALL,OVR
+400,2012,2012,Florida,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3284057112              -8663186076 ,12,CVD,CRDPREV,RACE,OTH
+402,2012,2012,New Jersey,BRFSS,Cardiovascular Disease,Crude Prevalence,43.7,29.1,59.5,Race/Ethnicity,Hispanic,2893204038              -8192896054 ,34,CVD,CRDPREV,RACE,HIS
+403,2012,2012,Florida,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,24.6,15.8,36.1,Gender,Female,4013057005               -7427369129 ,12,CVD,AGEADJPREV,GENDER,GENF
+404,2012,2012,New Hampshire,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",2893204038                -8192896054 ,33,CVD,CRDPREV,RACE,MRC
+408,2012,2012,North Carolina,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,40.7,35.5,46.1,Race/Ethnicity,"White, non-Hispanic",4365595011                -7150036092 ,37,CVD,AGEADJPREV,RACE,WHT
+409,2012,2012,Idaho,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",3546622098                 -7915925046 ,16,CVD,AGEADJPREV,RACE,BLK
+410,2012,2012,California,BRFSS,Cardiovascular Disease,Crude Prevalence,39.3,31.8,47.3,Overall,Overall,4368263001                 -11436373 ,6,CVD,CRDPREV,OVERALL,OVR
+412,2012,2012,District of Columbia,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,3763864012                  -1209999995 ,11,CVD,AGEADJPREV,RACE,HIS
+413,2012,2012,Arizona,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,35.1,22.9,49.6,Overall,Overall,3889037139                   -7703196113 ,4,CVD,AGEADJPREV,OVERALL,OVR
+414,2012,2012,California,BRFSS,Cardiovascular Disease,Crude Prevalence,38.5,28.1,50.1,Gender,Female,3486597028                   -1117638113 ,6,CVD,CRDPREV,GENDER,GENF
+415,2012,2012,Connecticut,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3763864012                   -1209999995 ,9,CVD,CRDPREV,RACE,MRC
+416,2012,2012,Georgia,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,51.3,45.5,57.0,Race/Ethnicity,"White, non-Hispanic",4156266102                   -7264984095 ,13,CVD,AGEADJPREV,RACE,WHT
+417,2012,2012,Louisiana,BRFSS,Cardiovascular Disease,Crude Prevalence,52.4,41.0,63.6,Gender,Male,3283968109                   -8362758035 ,22,CVD,CRDPREV,GENDER,GENM
+420,2012,2012,Colorado,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,29.2,21.4,38.6,Race/Ethnicity,"White, non-Hispanic",3131266064                    -9244568007 ,8,CVD,AGEADJPREV,RACE,WHT
+422,2012,2012,Montana,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3884384076                    -1061336109 ,30,CVD,AGEADJPREV,RACE,MRC
+423,2012,2012,New Mexico,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4706652897                    -1094244206 ,35,CVD,AGEADJPREV,RACE,MRC
+426,2012,2012,Delaware,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3452088095                   -106240581 ,10,CVD,CRDPREV,RACE,OTH
+427,2012,2012,Missouri,BRFSS,Cardiovascular Disease,Crude Prevalence,56.8,47.4,65.7,Race/Ethnicity,"White, non-Hispanic",3900883067                    -7557774117 ,29,CVD,CRDPREV,RACE,WHT
+428,2012,2012,New York,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,18.3,11.1,28.6,Gender,Male,3863579078                    -9256630005 ,36,CVD,AGEADJPREV,GENDER,GENM
+431,2012,2012,Nevada,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,57.7,46.3,68.3,Gender,Female,4282700103                     -7554397043 ,32,CVD,AGEADJPREV,GENDER,GENF
+432,2012,2012,Wyoming,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3949324039                      -1170718406 ,56,CVD,CRDPREV,RACE,OTH
+434,2012,2012,Rhode Island,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,62.8,54.3,70.6,Gender,Male,4323554134                      -1081098304 ,44,CVD,AGEADJPREV,GENDER,GENM
+438,2012,2012,Nebraska,BRFSS,Cardiovascular Disease,Crude Prevalence,66.7,63.2,70.1,Race/Ethnicity,"White, non-Hispanic",41.64104099                      -99.36572062,31,CVD,CRDPREV,RACE,WHT
+440,2012,2012,New Mexico,BRFSS,Cardiovascular Disease,Crude Prevalence,59.6,54.3,64.7,Overall,Overall,4164104099                      -9936572062 ,35,CVD,CRDPREV,OVERALL,OVR
+441,2012,2012,Ohio,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,3452088095                      -106240581 ,39,CVD,AGEADJPREV,RACE,HIS
+442,2012,2012,Kentucky,BRFSS,Cardiovascular Disease,Crude Prevalence,60.9,55.6,66.0,Overall,Overall,3452088095                       -106240581 ,21,CVD,CRDPREV,OVERALL,OVR
+443,2012,2012,West Virginia,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4006021014                       - 8240426006 ,54,CVD,CRDPREV,RACE,HIS
+446,2012,2012,Illinois,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,55.7,49.7,61.5,Overall,Overall,3764597027                        -8477497105 ,17,CVD,AGEADJPREV,OVERALL,OVR
+447,2012,2012,South Dakota,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",386655102                           -8071264013 ,46,CVD,AGEADJPREV,RACE,MRC
+449,2012,2012,Connecticut,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4048501028                         -8899771018 ,9,CVD,CRDPREV,RACE,OTH
+450,2012,2012,New York,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4435313005                          -1003735306 ,36,CVD,CRDPREV,RACE,BLK
+451,2012,2012,Maryland,BRFSS,Cardiovascular Disease,Crude Prevalence,68.4,55.6,78.9,Race/Ethnicity,"Black, non-Hispanic",4156266102                           -7264984095 ,24,CVD,CRDPREV,RACE,BLK
+452,2012,2012,District of Columbia,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",4282700103                           -7554397043 ,11,CVD,CRDPREV,RACE,MRC
+453,2011,2011,Wyoming,BRFSS,Cardiovascular Disease,Crude Prevalence,73.4,70.9,75.8,Gender,Male,3929058096                           -7660926011 ,56,CVD,CRDPREV,GENDER,GENM
+454,2011,2011,Wyoming,BRFSS,Cardiovascular Disease,Crude Prevalence,27.0,25.0,29.1,Gender,Female,3889037139                           -7703196113 ,56,CVD,CRDPREV,GENDER,GENF
+455,2011,2011,Florida,BRFSS,Cardiovascular Disease,Crude Prevalence,13.0,8.9,18.5,Race/Ethnicity,Hispanic,4323554134                           -1081098304 ,12,CVD,CRDPREV,RACE,HIS
+456,2011,2011,Missouri,BRFSS,Cardiovascular Disease,Crude Prevalence,14.4,11.8,17.4,Overall,Overall,4323554134                           -1081098304 ,29,CVD,CRDPREV,OVERALL,OVR
+457,2011,2011,Utah,BRFSS,Cardiovascular Disease,Crude Prevalence,10.6,9.2,12.1,Overall,Overall,2893204038                           -8192896054 ,49,CVD,CRDPREV,OVERALL,OVR
+458,2011,2011,Wisconsin,NVSS,Cardiovascular Disease,Number,14896.0,0.0,0.0,Overall,Overall,3863579078                           -9256630005 ,55,CVD,NMBR,OVERALL,OVR
+459,2011,2011,Florida,NVSS,Cardiovascular Disease,Number,22138.0,0.0,0.0,Gender,Male,3936070017                           -1115871306 ,12,CVD,NMBR,GENDER,GENM
+461,2011,2011,Utah,NVSS,Cardiovascular Disease,Number,1060.0,0.0,0.0,Gender,Female,4439319117                          -8981637074 ,49,CVD,NMBR,GENDER,GENF
+464,2011,2011,Vermont,NVSS,Cardiovascular Disease,Number,390.0,0.0,0.0,Gender,Female,2893204038                          -8192896054 ,50,CVD,NMBR,GENDER,GENF
+465,2011,2011,California,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,40.1,24.5,58.0,Race/Ethnicity,"White, non-Hispanic",3936070017                          -1115871306 ,6,CVD,AGEADJPREV,RACE,WHT
+466,2011,2011,Arizona,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4362538124                          -7251764079 ,4,CVD,AGEADJPREV,RACE,HIS
+467,2011,2011,Connecticut,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,3763864012                          -1209999995 ,9,CVD,CRDPREV,RACE,HIS
+469,2011,2011,Arizona,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,18.1,11.9,26.5,Gender,Male,3486597028                           -1117638113 ,4,CVD,AGEADJPREV,GENDER,GENM
+473,2011,2011,District of Columbia,BRFSS,Cardiovascular Disease,Crude Prevalence,43.8,29.0,59.8,Gender,Female,4156266102                           -7264984095 ,11,CVD,CRDPREV,GENDER,GENF
+474,2011,2011,Minnesota,BRFSS,Cardiovascular Disease,Crude Prevalence,55.7,43.3,67.5,Gender,Female,3486597028                           -1117638113 ,27,CVD,CRDPREV,GENDER,GENF
+475,2011,2011,Michigan,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,48.8,30.0,68.0,Race/Ethnicity,"White, non-Hispanic",3889037139                           -7703196113 ,26,CVD,AGEADJPREV,RACE,WHT
+476,2011,2011,North Carolina,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,29.7,22.5,38.1,Overall,Overall,4635564874                           -947942005 ,37,CVD,AGEADJPREV,OVERALL,OVR
+477,2011,2011,New York,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4466131954                           -8471439027 ,36,CVD,CRDPREV,RACE,OTH
+478,2011,2011,Missouri,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",3546622098                           -7915925046 ,29,CVD,AGEADJPREV,RACE,OTH
+480,2011,2011,Connecticut,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4282700103                           -7554397043 ,9,CVD,AGEADJPREV,RACE,OTH
+481,2011,2011,Massachusetts,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,21.6,15.2,29.8,Race/Ethnicity,Hispanic,3863579078                           -9256630005 ,25,CVD,AGEADJPREV,RACE,HIS
+482,2011,2011,Colorado,BRFSS,Cardiovascular Disease,Crude Prevalence,32.5,31.1,34.0,Gender,Female,4156266102                           -7264984095 ,8,CVD,CRDPREV,GENDER,GENF
+483,2011,2011,Iowa,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4227687047                           -7208269067 ,19,CVD,CRDPREV,RACE,BLK
+484,2011,2011,Idaho,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,26.8,14.7,43.8,Gender,Male,3884384076                           -1061336109 ,16,CVD,AGEADJPREV,GENDER,GENM
+485,2011,2011,Colorado,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,4246940091                           -9381649056 ,8,CVD,CRDPREV,RACE,HIS
+486,2011,2011,Massachusetts,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Other, non-Hispanic",4368263001                           -11436373 ,25,CVD,CRDPREV,RACE,OTH
+487,2011,2011,New York,BRFSS,Cardiovascular Disease,Crude Prevalence,61.4,52.2,69.9,Gender,Male,3884384076                           -1061336109 ,36,CVD,CRDPREV,GENDER,GENM
+488,2011,2011,Michigan,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,28.4,17.6,42.5,Race/Ethnicity,"Black, non-Hispanic",4227687047                           -7208269067 ,26,CVD,AGEADJPREV,RACE,BLK
+490,2011,2011,District of Columbia,BRFSS,Cardiovascular Disease,Crude Prevalence,52.0,40.7,63.0,Gender,Female,4282700103                           -7554397043 ,11,CVD,CRDPREV,GENDER,GENF
+491,2011,2011,Texas,BRFSS,Cardiovascular Disease,Crude Prevalence,59.4,54.3,64.4,Overall,Overall,4466131954                           -8471439027 ,48,CVD,CRDPREV,OVERALL,OVR
+492,2011,2011,Nebraska,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,Hispanic,3889037139                           -7703196113 ,31,CVD,CRDPREV,RACE,HIS
+493,2011,2011,Pennsylvania,BRFSS,Cardiovascular Disease,Crude Prevalence,69.7,65.0,73.9,Race/Ethnicity,"White, non-Hispanic",3182724041                          -9942677021 ,42,CVD,CRDPREV,RACE,WHT
+494,2011,2011,Georgia,BRFSS,Cardiovascular Disease,Crude Prevalence,57.4,52.4,62.3,Overall,Overall,4164104099                          -9936572062 ,13,CVD,CRDPREV,OVERALL,OVR
+495,2011,2011,New Hampshire,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,58.2,50.0,66.1,Gender,Male,4079373015                          -7786070029 ,33,CVD,AGEADJPREV,GENDER,GENM
+500,2011,2011,Iowa,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,71.5,65.9,76.6,Race/Ethnicity,"White, non-Hispanic",3283968109                          -8362758035 ,19,CVD,AGEADJPREV,RACE,WHT
+502,2011,2011,Missouri,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4365595011                         -7150036092 ,29,CVD,CRDPREV,RACE,BLK
+506,2011,2011,Tennessee,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Black, non-Hispanic",4246940091                        -9381649056 ,47,CVD,CRDPREV,RACE,BLK
+508,2011,2011,New Jersey,BRFSS,Cardiovascular Disease,Crude Prevalence,0.0,0.0,0.0,Race/Ethnicity,"Multiracial, non-Hispanic",3863579078                        -9256630005 ,34,CVD,CRDPREV,RACE,MRC
+510,2011,2011,Florida,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,61.6,57.0,65.9,Overall,Overall,3568094058                       -8577449091 ,12,CVD,AGEADJPREV,OVERALL,OVR
+511,2011,2011,North Dakota,BRFSS,Cardiovascular Disease,Age-adjusted Prevalence,64.7,55.2,73.2,Gender,Male,4013057005                        -7427369129 ,38,CVD,AGEADJPREV,GENDER,GENM
+513,2010,2010,Maine,NVSS,Cardiovascular Disease,Number,1731.0,0.0,0.0,Gender,Male,2893204038                        -8192896054 ,23,CVD,NMBR,GENDER,GENM
+514,2010,2010,Arizona,NVSS,Cardiovascular Disease,Number,956.0,0.0,0.0,Race/Ethnicity,Hispanic,4747531978                        -100118421 ,4,CVD,NMBR,RACE,HIS
+518,2010,2010,Hawaii,NVSS,Cardiovascular Disease,Number,567.0,0.0,0.0,Race/Ethnicity,"White, non-Hispanic",4525422889                         -6898503134 ,15,CVD,NMBR,RACE,WHT
+519,2010,2010,Missouri,NVSS,Cardiovascular Disease,Number,3463.0,0.0,0.0,Gender,Female,3486597028                          -1117638113 ,29,CVD,NMBR,GENDER,GENF
+520,2010,2010,Texas,NVSS,Cardiovascular Disease,Number,2869.0,0.0,0.0,Race/Ethnicity,Hispanic,2130485044                            -1578577494,48,CVD,NMBR,RACE,HIS
