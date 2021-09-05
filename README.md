@@ -1,4 +1,4 @@
-# final_project
+# Final Project: Predicting Cardiovascular Disease
 
 ## Project Overview
 
