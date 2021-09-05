@@ -3,7 +3,7 @@
 ## Project Overview
 
 ## Week 1
-# Roles
+## Roles
 
 Craig - Developed the ML mockup which can be found here: [ML Code](https://github.com/fadlnabbouh/final_project/blob/main/Initial_Cardio_Model.ipynb) and [here](https://github.com/fadlnabbouh/final_project/blob/main/Log_Regress_Cardio_Model.ipynb). For our Machine Learning portion, we will run classification models: a logistic regression model and neural network model on a large dataset to predict the presence of cardiovascular disease. The dataset looks at objective values such as height, weight, age, and gender, measured health values such as heart rate and levels of cholesterol/ glucose, and subjective measures such as the patient's activity level and whether or not they smoke/drink. All data will first be preprocessed to be used in our models. Our dataset's target value is relatively balanced, approximately 50-50, so we will not be using techniques to resolve class imbalance.  
 
