@@ -10,4 +10,3 @@ Hisham - Developed the ERD and database mockup, which can be found here: [ERD/ D
 Chris - Developed the technology mockup that can be found here: [Technology Mockup]() and worked on developing a process pipeline for the team to use when coding on this project, which includes making use of AWS services such as the database development and sagemaker to have code exist in the cloud.
 Fadl - Created the repository and maintained it throughout the week. In addition, maintained the readme file and developed an initial presentation and dashboard mockup that can be found here: [Dashboard Mockup]().
 All members contributed to the project idea and initial data clean up process. 
-
