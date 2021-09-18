@@ -24,8 +24,8 @@ def index():
    response = ""
    prediction = ""
    if form.validate_on_submit():
-      scale_means = np.load('scalar_means.npy')
-      scale_var = np.load('scalar_var.npy')
+      scale_means = np.load('scaler_means.npy')
+      scale_var = np.load('scaler_var.npy')
       #scale_var = np.load(url_for('static', filename='scalar_var.npy'))
       #scale_means = np.load(url_for('static', filename ='scalar_means.npy'))
       age = scale_data(float(form.age.data), scale_var[0], scale_means[0])
