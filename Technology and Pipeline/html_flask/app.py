@@ -18,8 +18,6 @@ Bootstrap(app)
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-   # you must tell the variable 'form' what you named the class, above
-   # 'form' is the variable name used in this template: index.html
    form = cvd_prediction_form.NameForm()
    response = ""
    prediction = ""
@@ -29,11 +27,11 @@ def index():
       #scale_var = np.load(url_for('static', filename='scalar_var.npy'))
       #scale_means = np.load(url_for('static', filename ='scalar_means.npy'))
       age = scale_data(float(form.age.data), scale_var[0], scale_means[0])
-      height = scale_data(float(form.height.data), scale_var[1], scale_means[1])
-      weight = scale_data(float(form.weight.data), scale_var[2], scale_means[2])
+      gender = scale_data(float(form.gender.data), scale_var[1], scale_means[1])
+      BMI = scale_data(float(form.BMI.data), scale_var[2], scale_means[2])
       ap_hi = scale_data(float(form.ap_hi.data), scale_var[3], scale_means[3])
       ap_lo = scale_data(float(form.ap_lo.data), scale_var[4], scale_means[4])
-      response = requests.get(url=connectionURL+str(age)+","+str(height)+","+str(weight)+","+str(ap_hi)+","+str(ap_lo))
+      response = requests.get(url=connectionURL+str(age)+","+str(gender)+","+str(BMI)+","+str(ap_hi)+","+str(ap_lo))
       responseJson = json.loads(json.dumps(response.json()))
       prediction = responseJson['result']         
    return render_template('index.html', form=form, message=prediction)
