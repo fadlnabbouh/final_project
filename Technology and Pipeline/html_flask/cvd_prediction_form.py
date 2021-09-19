@@ -1,11 +1,16 @@
 from flask_wtf import FlaskForm
-from wtforms import IntegerField, DecimalField, SubmitField
+from wtforms import RadioField, DecimalField, SubmitField
 from wtforms.validators import DataRequired, NumberRange
 
 class NameForm(FlaskForm):
-    age = DecimalField('What is your age?', validators=[DataRequired(), NumberRange(min=0, max=120, message="Please enter a valid age.")])
-    height = DecimalField('What is your height in centimeters?', places=2, validators=[DataRequired()])
-    weight = DecimalField('What is your weight in kilograms?', places=2, validators=[DataRequired()])
-    ap_hi = DecimalField('What is your systolic blood pressure?', validators=[DataRequired()])
-    ap_lo = DecimalField('What is your diastolic blood pressure?', validators=[DataRequired()])
+    age = DecimalField('Age:', validators=[DataRequired(), NumberRange(min=0, max=120, message="Please enter a valid age.")])
+    gender = RadioField('Gender:', choices=[('1','Female'),('2','Male')])
+    BMI = DecimalField('BMI:', places=2, validators=[DataRequired()])
+    ap_hi = DecimalField('Systolic blood pressure:', validators=[DataRequired()])
+    ap_lo = DecimalField('Diastolic blood pressure:', validators=[DataRequired()])
+    cholesterol = RadioField('Cholesterol level:', choices=[('1','Normal'),('2','Above Normal'),('3','Well Above Normal')],validators=[DataRequired()])
+    glucose = RadioField('Glucose Level:', choices=[('1','Normal'),('2','Above Normal'),('3','Well Above Normal')],validators=[DataRequired()])
+    smoke = RadioField('Are you a smoker?', choices=[('1','Yes'),('0','No')], validators=[DataRequired()])
+    alcohol = RadioField('Are you considered an alcoholic?', choices=[('1','Yes'),('0','No')], validators=[DataRequired()])
+    active = RadioField('Are you physically active?', choices=[('1','Yes'),('0','No')], validators=[DataRequired()])
     submit = SubmitField('Submit')
