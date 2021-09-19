@@ -20,7 +20,7 @@ All members contributed to the project idea and initial data clean up process.
 ## Week 2
 ## Roles
 
-Craig - X role - Craig outlined the dashboard and final presentation and started to put the pieces together. Craig has mapped out the parts of the presentation, what our main talking points will be, and how long each part will be in order for the team to be within the time constraints. The dashboard outline and powerpoint can be seen here: [Dashboard]() and [Presentation](). 
+Craig - X role - Craig outlined the dashboard and final presentation and started to put the pieces together. Craig has mapped out the parts of the presentation, what our main talking points will be, and how long each part will be in order for the team to be within the time constraints. The dashboard outline and powerpoint can be seen here: [Dashboard](https://docs.google.com/presentation/u/1/d/1y3piK0P08197Zvzh3q1JEIUCL2Cb0kG3nqqHAjn3njo/edit?usp=sharing) and [Presentation](https://docs.google.com/presentation/d/1kPJgIdu8fuf2Ci5hB6wL9CPa2ewXVI9GY5zz5iTyj_w/edit?usp=sharing). 
 
 Hisham - Square - Hisham worked on finalizing the final machine learning model, achieving a 73% accuracy rate with a neural network. He also aided in developing visuals for the dashboard and began putting together a website to display our findings and allow users to predict their cardiovascular risk. 
 
