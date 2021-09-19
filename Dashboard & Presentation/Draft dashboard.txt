@@ -1,0 +1,3 @@
+See below for a first draft of our analysis:
+
+https://ca-central-1.quicksight.aws.amazon.com/sn/analyses/e3843831-3777-4fad-9993-23526256fab6

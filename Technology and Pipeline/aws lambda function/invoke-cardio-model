@@ -1,0 +1,37 @@
+# This function calls the inference endpoint created from sagemaker.
+# ENDPOINT_NAME needs to be set in environment variables and the value will be the endpoint from sagemaker.
+
+import os
+import io
+import boto3
+import json
+import csv
+
+# grab environment variables
+ENDPOINT_NAME = os.environ['ENDPOINT_NAME']
+runtime= boto3.client('runtime.sagemaker')
+
+def lambda_handler(event, context):
+    print("Received event: " + json.dumps(event, indent=2))
+    
+    data = json.loads(json.dumps(event))
+    payload = data['data']
+    print(payload)
+    
+    response = runtime.invoke_endpoint(EndpointName=ENDPOINT_NAME,
+                                       ContentType='text/csv',
+                                       Body=payload)
+    print(response)
+    result = json.loads(response['Body'].read().decode())
+    print(result)
+    pred = round(result['predictions'][0][0],0)
+    print(pred)
+    
+    if pred > 0.5:
+        result = "You are at a higher risk of cardiovascular disease. Seek medical attention."
+    else:
+        result = "You are not at risk of cardiovascular disease."
+    
+    response = {'result': result}
+    
+    return response
