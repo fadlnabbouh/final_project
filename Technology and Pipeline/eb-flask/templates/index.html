@@ -42,7 +42,8 @@ Cardiovascular Disease Prediction
                 {{ subfield }} {{ subfield.label }}
           </div>
         {% endfor %}
-        {{ wtf.form_field(form.BMI) }}
+        {{ wtf.form_field(form.height) }}
+        {{ wtf.form_field(form.weight) }}
         {{ wtf.form_field(form.ap_hi) }}
         {{ wtf.form_field(form.ap_lo) }}
         <label class="form-control-label" for="cholesterol">Cholesterol Level:</label><br>

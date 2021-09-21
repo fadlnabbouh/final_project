@@ -7,7 +7,9 @@ from wtforms.validators import DataRequired, NumberRange
 class NameForm(FlaskForm):
     age = h5fields.DecimalField('Age:', validators=[DataRequired(), NumberRange(min=0, max=120, message="Please enter a valid age.")])
     gender = RadioField('Gender:', choices=[('1','Female'),('2','Male')])
-    BMI = h5fields.DecimalField('BMI:', places=2, validators=[DataRequired()])
+    #BMI = h5fields.DecimalField('BMI:', places=2, validators=[DataRequired()])
+    height = h5fields.DecimalField('Height:', places=2, validators=[DataRequired()])
+    weight = h5fields.DecimalField('Weight:', places=2, validators=[DataRequired()])
     ap_hi = h5fields.DecimalField('Systolic blood pressure:', validators=[DataRequired()])
     ap_lo = h5fields.DecimalField('Diastolic blood pressure:', validators=[DataRequired()])
     cholesterol = RadioField('Cholesterol level:', choices=[('1','Normal'),('2','Above Normal'),('3','Well Above Normal')],validators=[DataRequired()])

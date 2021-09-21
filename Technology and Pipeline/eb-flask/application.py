@@ -29,7 +29,7 @@ def index():
       # can implement a loop + array to clean up this block of code later.
       age = scale_data(float(form.age.data), scale_var[0], scale_means[0])
       gender = scale_data(float(form.gender.data), scale_var[1], scale_means[1])
-      BMI = scale_data(float(form.BMI.data), scale_var[2], scale_means[2])
+      BMI = scale_data(float(form.weight.data/(form.height.data)**2), scale_var[2], scale_means[2])
       ap_hi = scale_data(float(form.ap_hi.data), scale_var[3], scale_means[3])
       ap_lo = scale_data(float(form.ap_lo.data), scale_var[4], scale_means[4])
       cholesterol = scale_data(float(form.cholesterol.data),scale_var[5],scale_means[5])
@@ -47,7 +47,6 @@ def index():
    return render_template('index.html', form=form, message=prediction, data_string=data_string)
 
 def scale_data(data,scale_var,scale_means):
-   #print ((data-scale_means)/scale_var)
    return (data-scale_means)/scale_var
    
 if __name__ == "__main__":
