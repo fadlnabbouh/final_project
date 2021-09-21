@@ -21,6 +21,7 @@ def index():
    form = cvd_prediction_form.NameForm()
    response = ""
    prediction = ""
+   data_string = ""
    if form.validate_on_submit():
       scale_means = np.load('scaler_means.npy')
       scale_var = np.load('scaler_var.npy')
@@ -40,9 +41,10 @@ def index():
       # will clean up connection string as well.
       response = requests.get(url=connectionURL+str(age)+","+str(gender)+","+str(BMI)+","+str(ap_hi)+","+str(ap_lo)+","+str(cholesterol)+","+str(glucose)+","+str(smoke)+","+str(alcohol)+","+str(active))
       responseJson = json.loads(json.dumps(response.json()))
+      data_string = str(age)+","+str(gender)+","+str(BMI)+","+str(ap_hi)+","+str(ap_lo)+","+str(cholesterol)+","+str(glucose)+","+str(smoke)+","+str(alcohol)+","+str(active)
       prediction = responseJson['result'] 
               
-   return render_template('index.html', form=form, message=prediction)
+   return render_template('index.html', form=form, message=prediction, data_string=data_string)
 
 def scale_data(data,scale_var,scale_means):
    #print ((data-scale_means)/scale_var)
