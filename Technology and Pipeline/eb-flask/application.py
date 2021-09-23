@@ -2,7 +2,7 @@ import requests
 import json
 import os
 import numpy as np
-from flask import Flask, render_template, redirect, url_for, jsonify, request
+from flask import Flask, render_template, redirect, url_for, jsonify, request, Markup
 from flask_bootstrap import Bootstrap
 from config import key, connectionURL
 
@@ -22,6 +22,7 @@ def index():
    response = ""
    prediction = ""
    data_string = ""
+   message=""
    if form.validate_on_submit():
       scale_means = np.load('scaler_means.npy')
       scale_var = np.load('scaler_var.npy')
@@ -41,10 +42,16 @@ def index():
       # will clean up connection string as well.
       response = requests.get(url=connectionURL+str(age)+","+str(gender)+","+str(BMI)+","+str(ap_hi)+","+str(ap_lo)+","+str(cholesterol)+","+str(glucose)+","+str(smoke)+","+str(alcohol)+","+str(active))
       responseJson = json.loads(json.dumps(response.json()))
-      data_string = str(age)+","+str(gender)+","+str(BMI)+","+str(ap_hi)+","+str(ap_lo)+","+str(cholesterol)+","+str(glucose)+","+str(smoke)+","+str(alcohol)+","+str(active)
-      prediction = responseJson['result'] 
-              
-   return render_template('index.html', form=form, message=prediction, data_string=data_string)
+      #data_string = str(age)+","+str(gender)+","+str(BMI)+","+str(ap_hi)+","+str(ap_lo)+","+str(cholesterol)+","+str(glucose)+","+str(smoke)+","+str(alcohol)+","+str(active)
+      prediction = responseJson['result']['predictions'][0][0]
+      print(prediction)
+
+      if (round(float(prediction),2) < 0.5):
+         message = Markup("<p>You are not at risk of cardivascular disease.</p><p>Probability: "+ str(round((1-prediction)*100,2)) +"%</p>")
+      else:
+         message = Markup("<p>You are at risk of cardivascular disease.</p><p>Probability: " + str(round(prediction*100,2)) +"%</p>")
+         
+   return render_template('index.html', form=form, message=message)
 
 def scale_data(data,scale_var,scale_means):
    return (data-scale_means)/scale_var
