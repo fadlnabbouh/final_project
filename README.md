@@ -39,4 +39,14 @@ For the Machine Learning portion of this project, we pre-processed data by remov
 
 In addition to testing a few algorithms, we also tested bucketing and different variables, as well as feature analysis. Using a gradient boosted classifier, we found the most predictive variables and limited the all algorithms to those variables. We also tested BMI over height/weight and bucketing BMI and cholesterol variables. In summary, the BMI variable is a better predictor than using height/weight, bucketing reduced accuracy, and reducing number of features made the predictors less accurate. 
 
+## Week 3 
+## Roles
+
+Craig - 
+
+Hisham - 
+
+Chris - 
+
+Fadl - 
 
