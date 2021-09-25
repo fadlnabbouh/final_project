@@ -24,16 +24,10 @@ Cardiovascular Disease Prediction
     <div class="col-md-10 col-lg-8 mx-lg-auto mx-md-auto">
 
       <h1 class="pt-5 pb-2">Are you at risk?</h1>
-
-      {% if message is defined and message|length %}
-      
-      <p class="pt-5"><strong>{{ message }}</strong></p>
-
-      {% else %}
           
       <p class="lead">Please enter the following information to determine if you are at risk of cardiovascular disease.</p>
 
-      <form action="" method="post" class="form" role="form">
+      <form action="/predict" method="post" class="form" role="form" target="test_name">
         {{ form.csrf_token }}
         {{ wtf.form_field(form.age) }}
         <label class="form-control-label" for="gender">Gender:</label><br>
@@ -84,7 +78,6 @@ Cardiovascular Disease Prediction
         {{ form.submit }}
         <br><br>
       </form>
-      {% endif %}
 
     </div>
   </div>
