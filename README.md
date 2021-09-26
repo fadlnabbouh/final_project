@@ -30,6 +30,18 @@ Fadl - Circle - Fadl continued the analysis and helped create the visuals for th
 
 All team members contributed to developing dashboard visuals, planning of project elements, and repository organization. 
 
+
+## Week 3 
+## Roles
+
+Craig - Craig finalized the presentation slides which can be found [here](https://docs.google.com/presentation/d/1kPJgIdu8fuf2Ci5hB6wL9CPa2ewXVI9GY5zz5iTyj_w/edit#slide=id.p).
+
+Hisham - Hisham finalized the dashboard found [here](https://signin.aws.amazon.com/oauth?response_type=code&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fspaceneedle-prod&redirect_uri=https%3A%2F%2Fca-central-1.quicksight.aws.amazon.com%2Fsn%2Fdashboards%2Fbf9360c4-48b7-4e83-a389-e226f7c1da59%3Fstate%3DhashArgs%2523%26isauthcode%3Dtrue&forceMobileLayout=0&forceMobileApp=0). The dashboard will be available soon, images of the dashboard can be seen in the resources folder. He also worked on a front end website to present our team, cvd research, and ML model. 
+
+Chris - Chris performed a quality assurance check on project deliverables against rubric requirements, and tested the code. He also developed an html form to interact with a sagemaker endpoint in AWS in order to present our ML model and allow users to determine their own cvd risk. 
+
+Fadl - Fadl peer-reviewed the code and ensured it was clean and presentable. He also organized the repository. 
+
 ## Project Description
 The project focuses on using a database of 70,000 patients with key objective, subjective, and medical examination metrics in order to predict risk of cardiovascular disease. The raw data was uploaded to the database and merged to form one large table for machine learning. This included 3 tables with subjective, objective, and medical examination data. CDC data was also uploaded with data on key disease mortality rates in the United States to provide an impact report within the dashboard. Database setup can be found in the Technology and Pipeline folder. Data was preprocessed (see Preprocessing folder) and explored in AWS' Quicksight. The exploratory analysis/ dashboard can be found in the dashboard. Data was then put through multiple machine learning models (see below), with a 73% accuracy being achieved using a Neural Network. Finally, the presentation to key stakeholders began development this week. 
 
@@ -38,5 +50,3 @@ The project focuses on using a database of 70,000 patients with key objective, s
 For the Machine Learning portion of this project, we pre-processed data by removing patients with missing data and removing outliers based on medical cutoffs. We then used a simple logistic regression to test the classification problem because we were predicting a binary variable (yes vs no cardiovascular disease). However, the logistic regression classifier can be enhanced by the more complex neural network. We tested the neural network many times, changing the number of epochs, hidden layers, and neurons, as well as the activation functions, generating an accuracy of 73% at its highest. The limitation to using a neural network, however, is how prone it is to overfitting. 
 
 In addition to testing a few algorithms, we also tested bucketing and different variables, as well as feature analysis. Using a gradient boosted classifier, we found the most predictive variables and limited the all algorithms to those variables. We also tested BMI over height/weight and bucketing BMI and cholesterol variables. In summary, the BMI variable is a better predictor than using height/weight, bucketing reduced accuracy, and reducing number of features made the predictors less accurate. 
-
-
