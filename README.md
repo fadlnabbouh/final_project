@@ -30,7 +30,6 @@ Fadl - Circle - Fadl continued the analysis and helped create the visuals for th
 
 All team members contributed to developing dashboard visuals, planning of project elements, and repository organization. 
 
-
 ## Week 3 
 ## Roles
 
@@ -49,4 +48,3 @@ The project focuses on using a database of 70,000 patients with key objective, s
 
 For the Machine Learning portion of this project, we pre-processed data by removing patients with missing data and removing outliers based on medical cutoffs. We then used a simple logistic regression to test the classification problem because we were predicting a binary variable (yes vs no cardiovascular disease). However, the logistic regression classifier can be enhanced by the more complex neural network. We tested the neural network many times, changing the number of epochs, hidden layers, and neurons, as well as the activation functions, generating an accuracy of 73% at its highest. The limitation to using a neural network, however, is how prone it is to overfitting. 
 
-In addition to testing a few algorithms, we also tested bucketing and different variables, as well as feature analysis. Using a gradient boosted classifier, we found the most predictive variables and limited the all algorithms to those variables. We also tested BMI over height/weight and bucketing BMI and cholesterol variables. In summary, the BMI variable is a better predictor than using height/weight, bucketing reduced accuracy, and reducing number of features made the predictors less accurate. 
