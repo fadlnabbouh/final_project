@@ -1,0 +1,86 @@
+{% extends 'bootstrap/base.html' %}
+{% import "bootstrap/wtf.html" as wtf %}
+
+{% block styles %}
+{{ super() }}
+	<style>
+		body { background: #e8f1f9; }
+    .form-check-inline label {margin-bottom: 0px !important;}
+    .form-check-inline input[type=radio] {margin-right: 2px !important;}
+    .form-check-inline {margin-bottom: 0.5rem}
+	</style>
+{% endblock %}
+
+
+{% block title %}
+Cardiovascular Disease Prediction
+{% endblock %}
+
+
+{% block content %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-md-10 col-lg-8 mx-lg-auto mx-md-auto">
+
+      <h1 class="pt-5 pb-2">Are you at risk?</h1>
+          
+      <p class="lead">Please enter the following information to determine if you are at risk of cardiovascular disease.</p>
+
+      <form action="/predict" method="post" class="form" role="form" target="test_name">
+        {{ form.csrf_token }}
+        {{ wtf.form_field(form.age) }}
+        <label class="form-control-label" for="gender">Gender:</label><br>
+        {% for subfield in form.gender %}
+          <div class="form-check form-check-inline">
+                {{ subfield }} {{ subfield.label }}
+          </div>
+        {% endfor %}
+        {{ wtf.form_field(form.height) }}
+        {{ wtf.form_field(form.weight) }}
+        {{ wtf.form_field(form.ap_hi) }}
+        {{ wtf.form_field(form.ap_lo) }}
+        <label class="form-control-label" for="cholesterol">Cholesterol Level:</label><br>
+        {% for subfield in form.cholesterol %}
+          <div class="form-check form-check-inline">
+                {{ subfield }} {{ subfield.label }}
+          </div>
+        {% endfor %}
+        <br>
+        <label class="form-control-label" for="glucose">Glucose Level:</label><br>
+        {% for subfield in form.glucose %}
+          <div class="form-check form-check-inline">
+                {{ subfield }} {{ subfield.label }}
+          </div>
+        {% endfor %}
+        <br>
+        <label class="form-control-label" for="smoke">Are you considered a smoker?</label><br>
+        {% for subfield in form.smoke %}
+          <div class="form-check form-check-inline">
+                {{ subfield }} {{ subfield.label }}
+          </div>
+        {% endfor %}
+        <br>
+        <label class="form-control-label" for="alcohol">Do you drink alcohol?</label><br>
+        {% for subfield in form.alcohol %}
+          <div class="form-check form-check-inline">
+                {{ subfield }} {{ subfield.label }}
+          </div>
+        {% endfor %}
+        <br>
+        <label class="form-control-label" for="alcohol">Are you physically active?</label><br>
+        {% for subfield in form.active %}
+          <div class="form-check form-check-inline">
+                {{ subfield }} {{ subfield.label }}
+          </div>
+        {% endfor %}
+        <br><br>
+        {{ form.submit }}
+        <br><br>
+      </form>
+
+    </div>
+  </div>
+</div>
+
+{% endblock %}
