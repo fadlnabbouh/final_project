@@ -11,6 +11,10 @@ Cardiovascular Disease (CVD) is the leading cause of death globally, making up a
 ## Project Description
 The project focuses on using a database of 70,000 patients with key objective, subjective, and medical examination metrics in order to predict risk of cardiovascular disease. The raw data was uploaded to the database and merged to form one large table for machine learning. This included 3 tables with subjective, objective, and medical examination data. CDC data was also uploaded with data on key disease mortality rates in the United States to provide an impact report within the dashboard. Database setup can be found in the Technology and Pipeline folder. Data was preprocessed (see Preprocessing folder) and explored in AWS' Quicksight. The exploratory analysis/ dashboard can be found in the dashboard. Data was then put through multiple machine learning models (see below), with a 73% accuracy being achieved using a Neural Network. Finally, the presentation to key stakeholders began development this week. 
 
+## Analysis
+
+
+
 ## Machine Learning Algorithm
 
 For the Machine Learning portion of this project, we pre-processed data by removing patients with missing data and removing outliers based on medical cutoffs. We then used a simple logistic regression to test the classification problem because we were predicting a binary variable (yes vs no cardiovascular disease). However, the logistic regression classifier can be enhanced by the more complex neural network. We tested the neural network many times, changing the number of epochs, hidden layers, and neurons, as well as the activation functions, generating an accuracy of 73% at its highest. The limitation to using a neural network, however, is how prone it is to overfitting. 
