@@ -55,12 +55,12 @@ Fadl - Fadl peer-reviewed the code and ensured it was clean and presentable. He 
 ## Week 4
 ## Roles
 
-Craig - 
+Craig - Provided final touches on the visual aspects with the presentation and dashboard.
 
-Hisham - 
+Hisham - Final peer review of code, ensured it met coding guidelines. 
 
-Chris - 
+Chris - Ensured the project meet the requirements on the rubric.
 
-Fadl - 
+Fadl - Updated the final readme. 
 
 The entire team helped with presentation prep, final code testing, and repository clean up. 
